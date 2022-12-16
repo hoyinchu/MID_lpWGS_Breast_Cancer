@@ -1,0 +1,5 @@
+label	num_case_entire_cohort	num_control_entire_cohort	num_total_entire_cohort	auc_entire_cohort	num_case_non_PV_carriers_only	num_control_non_PV_carriers_only	num_total_non_PV_carriers_only	auc_non_PV_carriers_only	auc_diff	auc_diff_relative
+Any cancer occurence in up to 2nd degree relative	86	114	200	0.5465116279069767	66.0	100.0	166.0	0.5910606060606061	0.04454897815362935	0.08151515151515158
+BC occurence in up to 2nd degree relative	53	147	200	0.6048004107303299	37.0	129.0	166.0	0.6710664152524618	0.06626600452213194	0.10956673201017189
+Any cancer occurence in 1st degree relative	45	155	200	0.5895340501792115	36.0	130.0	166.0	0.6504273504273504	0.06089330024813899	0.10329055671954511
+BC occurence in 1st degree relative	25	175	200	0.6626285714285715	18.0	148.0	166.0	0.7725225225225225	0.10989395109395106	0.16584547638359293
